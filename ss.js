@@ -2,7 +2,7 @@
 let songs = [];
 
 // 載入 JSON 歌曲資料
-fetch('https://yourdomain.com/songs.json') // 你需要把資料放到伺服器上
+fetch('https://raw.githubusercontent.com/gregoryma1230/sheet-music-search/refs/heads/main/songs.json') // 你需要把資料放到伺服器上
   .then(response => response.json())
   .then(data => {
     songs = data;  // 儲存資料供後續搜尋使用
@@ -44,3 +44,4 @@ document.getElementById('searchInput').addEventListener('input', function () {
     resultBox.appendChild(div);
   });
 });
+
