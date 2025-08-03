@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>歌譜搜尋引擎</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    input {
+      padding: 8px;
+      width: 80%;
+    }
+    #results {
+      margin-top: 20px;
+    }
+    li {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>歌譜搜尋</h1>
+  <input type="text" id="searchBox" placeholder="輸入歌名、作曲家或關鍵字" />
+  <ul id="results"></ul>
+
+  <script>
+    // 1. 載入 JSON 資料
+    fetch('songs.json')
+      .then(response => response.json())  // 解析 JSON
+      .then(data => {
+        let scores = data;
+
+        // 2. 搜尋框事件處理
+        document.getElementById('searchBox').addEventListener('input', function() {
+          const query = this.value.toLowerCase();
+          const results = document.getElementById('results');
+          results.innerHTML = '';  // 清空結果區域
+
+          // 3. 篩選資料
+          const filtered = scores.filter(score => 
+            score.title.toLowerCase().includes(query) ||  // 搜尋歌名
+            score.composer.toLowerCase().includes(query) ||  // 搜尋作曲家
+            score.tags.some(tag => tag.toLowerCase().includes(query))  // 搜尋標籤
+          );
+
+          // 4. 顯示篩選結果
+          filtered.forEach(score => {
+            const li = document.createElement('li');
+            li.innerHTML = `<a href="${score.pdf}" target="_blank">${score.title}</a> - ${score.composer}`;
+            results.appendChild(li);
+          });
+        });
+      })
+      .catch(error => console.error('讀取 JSON 發生錯誤:', error)); // 錯誤處理
+  </script>
+</body>
+</html>
