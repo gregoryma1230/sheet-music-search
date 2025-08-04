@@ -1,37 +1,5458 @@
 [
   {
-    "title": "諸聖禱文",
+    "title": "中國聖母",
+    "composer": "恩澤民",
+    "lyricist": "",
+    "arrangement": "J S Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "中華聖母",
+    "composer": "司馬榮",
+    "lyricist": "",
+    "arrangement": "陸達初",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "Gen Verde",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母經",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母領報",
+    "composer": "Roberton",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬福瑪利亞",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "可愛之母瑪利亞",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡喜五端",
+    "composer": "F L Comire",
+    "lyricist": "胡健挺",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "痛苦五端",
+    "composer": "F L Comire",
+    "lyricist": "胡健挺",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光明五端",
+    "composer": "F L Comire",
+    "lyricist": "胡健挺",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "榮福五端",
+    "composer": "F L Comire",
+    "lyricist": "胡健挺",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "孝愛聖母",
+    "composer": "江克滿",
+    "lyricist": "江克滿",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "母親",
+    "composer": "貝雅聲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "極溫良的母親",
+    "composer": "B.S.",
+    "lyricist": "梁加恩",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母我的慈母",
+    "composer": "Rolner Gesangbuch",
+    "lyricist": "張雅各",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "瑪利亞天主之母",
+    "composer": "MJB",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母聖名",
+    "composer": "A Castelli",
+    "lyricist": "張雅各",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "無原罪讚",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "玉潔冰清",
+    "composer": "H F Henry",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天上母后",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "海星",
+    "composer": "司馬榮",
+    "lyricist": "胡重生",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "花地瑪聖母",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "露德聖母",
+    "composer": "Grenoble",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬福瑪利亞",
+    "composer": "蘇明村",
+    "lyricist": "蘇明村",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬福聖母后",
+    "composer": "Federico Caudana",
+    "lyricist": "胡健挺",
+    "arrangement": "Antonio Riganti",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "吁﹗瑪利亞",
+    "composer": "Hildesheim",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬福母后",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的母皇",
+    "composer": "Geo. Dennis",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母旗幟下的軍人",
+    "composer": "劉榮耀",
+    "lyricist": "駱鏗祥",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的母皇",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "黃景賢",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "黃景賢",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "黃景賢",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "黃景賢",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "鄧思恩",
+    "lyricist": "禮儀常用經文",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "垂憐頌",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼頌",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "羔羊頌",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "福傳天下去",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "傳播福音者",
     "composer": "蔡詩亞",
-    "tags": "F調, 伴奏",
-    "url": "https://musicasacra.org.hk/publish/Season/LitaniaeSanctorum/Choi/LitaniaeSanctorumF.pdf",
-    "remarks": "testing"
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "傳播福音",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願我的禱聲",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主俯聽我禱",
+    "composer": "何瑞雄",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請祢俯聽我們",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主俯聽我們",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主俯聽",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "慈愛的天主",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願我的祈禱",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "寬大的仁愛",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願我的禱聲",
+    "composer": "張國偉",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求祢俯聽我們",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願我的呼聲",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主俯聽我們",
+    "composer": "張雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願我的禱聲",
+    "composer": "戴思",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主﹗聽我禱聲",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主俯聽我禱告",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請你垂聽",
+    "composer": "胡健挺",
+    "lyricist": "",
+    "arrangement": "蘇柏羲",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主矜憐",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主垂憐",
+    "composer": "佚名",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主寬恕",
+    "composer": "",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救恩賜給我們",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡欣地歌唱",
+    "composer": "江文也",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "慈顏光照",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "充滿喜樂",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "慈悲的天父",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祂全面得勝",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主!我在這裡",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼高唱",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "言出必行",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主是神",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祢的話就是生命",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主說的話",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "永生之言",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "阿爸父啊",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "生命的道路",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的道路",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主的聖殿",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的光明",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的光明",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的光明",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的光明",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的光明",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "平安賜給我們",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願萬民稱頌主",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願萬民都稱頌祢",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "齊聲讚美主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的依靠",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "人生似朝露",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主賜順利成功",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "保障和勇力",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主來臨",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡欣喜躍",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "至高至尊",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "全地的四極",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救恩的杯爵",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救恩之杯",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的名",
+    "composer": "張國偉",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "爾眾萬民",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "爾眾萬民",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請你們稱謝上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡欣到聖殿",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祈禱和平",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "敬畏上主",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "敬畏上主的人",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "敬畏上主的人",
+    "composer": "伍維烈",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我心仰望上主",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "渴慕平安",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主﹗請駕臨",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "感謝天主",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Amen",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Amen",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Amen",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Amen",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Amen",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Amen",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主﹗我在這裡",
+    "composer": "M V Francisco",
+    "lyricist": "蔡詩亞",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "齊同聲讚主",
+    "composer": "M V Francisco",
+    "lyricist": "蔡詩亞",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Alleluia",
+    "composer": "K Lafferty",
+    "lyricist": "蔡詩亞",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我主基督耶穌",
+    "composer": "蔡詩亞",
+    "lyricist": "蔡詩亞",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願光榮",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願光榮",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願光榮",
+    "composer": "張懷智",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願光榮",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮的君王",
+    "composer": "劉超賢",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮的君王",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主聖言",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願天下萬民",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願光榮歸於主",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督是活水",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督是光明",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督是生命",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主以真理祝聖他們",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主萬有的主",
+    "composer": "劉玉亭",
+    "lyricist": "劉玉亭",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奉獻身心",
+    "composer": "German",
+    "lyricist": "聖依納爵",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主萬有的天主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "敬獻給主",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "全能顯赫迼物主",
+    "composer": "H L Hassler",
+    "lyricist": "",
+    "arrangement": "J S Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "仁慈的聖父",
+    "composer": "李振邦",
+    "lyricist": "李振邦",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請接受我們的禮品",
+    "composer": "李振邦",
+    "lyricist": "趙一舟",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "至尊無對的天主",
+    "composer": "傳統",
+    "lyricist": "張雅各",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "甘將一生交給主",
+    "composer": "R Repp",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "仁慈的聖父",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "禮品",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主萬有的天主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們同歡聚",
+    "composer": "鄧思恩",
+    "lyricist": "鄧思恩",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "獻上",
+    "composer": "Gen Rosso",
+    "lyricist": 1994,
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "仁慈萬有的主",
+    "composer": "蘇明村",
+    "lyricist": "蘇明村",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "呈奉",
+    "composer": "李浩泉",
+    "lyricist": "李浩泉",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主悅納",
+    "composer": "劉志明",
+    "lyricist": "劉志明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奉獻",
+    "composer": "劉志明",
+    "lyricist": "劉志明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主萬有的天主",
+    "composer": "劉志明",
+    "lyricist": "劉志明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信德的奧蹟",
+    "composer": "何瑞雄",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌詞",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌詞",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌詞",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌詞",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌詞",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "導言、天主經、附禱經、天下萬國",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "導言、天主經、附禱經、天下萬國",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "導言、天主經",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "李振邦",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主經",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "蘇明村",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天下萬國",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "陸達初",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "這樣才是有福",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "陸達初",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我公義的天主",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主啊﹗祢把我遺忘到何時",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "江克滿",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主啊﹗保祐我吧",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主啊﹗保祐我吧",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主是我的力量",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的法律",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的法律",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的善牧",
+    "composer": "Jessie Seymour Irvine",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主是牧者",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "徐錦堯",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我是主的羊",
+    "composer": "Orient Johnson",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主為我牧",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的牧者",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的牧者",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬民都知道",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的牧者",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "善牧",
+    "composer": "江克滿",
+    "lyricist": "江克滿",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "回歸父家",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "宇宙萬物",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的道路",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主是我的光明",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主賜平安",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "義人向上主歡呼",
+    "composer": "佚名",
+    "lyricist": "莊宗澤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "時時讚美上主",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主﹗我已來到",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "優美的讚頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬民啊",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主仁慈憐憫",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主內得安寧",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "全心渴慕天主",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "渴慕天主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讓我們歌頌上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "爾眾萬邦",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願萬民都稱頌祢",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願萬民稱頌主",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡欣踴躍",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "傳揚主的正義",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主必為王",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歌頌主名",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我靈讚頌上主",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "在萬民中讚主",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡躍於主",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普天大地頌揚主",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普天地頌揚上主",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請你們頌揚上主",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普世大地向主歡呼",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普天地頌揚上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "向上主歡呼",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主富於仁愛",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "寬仁的上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬民﹗請讚美上主",
+    "composer": "戴思",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "向上主歌頌",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主真是偉大",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "義人的聚會",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主富於仁愛",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "從日出",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的聖言",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "為教會祈禱和平",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡欣常樂於上主",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "翹首仰看天父",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主的子女",
+    "composer": "阮慧玲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主的子女",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "呼籲慈愛的主",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我自深處向祢呼籲",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天真",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的心靈渴慕平安",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "純真與信賴",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "團聚的兄弟之樂",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "兄弟團聚之樂",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "感謝天主",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "謝恩頌",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "你們應當稱謝上主",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美主的美善",
+    "composer": "何瑞雄",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "永頌主名",
+    "composer": "李海珊",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我的天主我的王",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "神貧的人",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我靈頌主",
+    "composer": "徐錦堯",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主是我的幫助",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祈主援救",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美天主",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶路撒冷讚美上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌上主",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上天下地讚頌上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請讚美上主",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "全能偉大的上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "真主唯一",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主是我們的喜樂",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的聖殿",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奔赴主前",
+    "composer": "Edward Elgar",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天國眾子民",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主庭院",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讓兒童來近我主",
+    "composer": "黃湛森",
+    "lyricist": "黃湛森",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奧思定的祈禱",
+    "composer": "蘇柏羲",
+    "lyricist": "聖奧思定",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我在主面前",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歌頌天父",
+    "composer": "蔡詩亞",
+    "lyricist": "胡健挺",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主乃吾人勇力",
+    "composer": "佚名",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我見了水",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救恩的泉源",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "眾心的太陽",
+    "composer": "佚名",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "三聖童頌",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡呼高唱",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "熙雍讚主頌",
+    "composer": "Franc Joseph Haydn",
+    "lyricist": "J Newton",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "全能浩大至聖",
+    "composer": "John  Bacchus Dykes",
+    "lyricist": "Reginald Heber",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願上主永享稱讚",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "太陽歌",
+    "composer": "梁雅明",
+    "lyricist": "聖方濟",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "造物讚",
+    "composer": "伍維烈",
+    "lyricist": "胡健挺",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "頌主恩",
+    "composer": "劉超賢",
+    "lyricist": "劉超賢",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "感恩頌",
+    "composer": "Daniel L Schutte",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們全心感謝天主",
+    "composer": "佚名",
+    "lyricist": "佚名",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "感恩曲",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "感恩曲",
+    "composer": "Nikolaus Herman",
+    "lyricist": "莊宗澤",
+    "arrangement": "Joham Sebastian Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "平安",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祥",
+    "composer": "Kevin Mayhew",
+    "lyricist": "Kevin Mayhew",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主慈頌",
+    "composer": "江克滿",
+    "lyricist": "莊宗澤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "和平的工具",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "和平的工具",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祝福您",
+    "composer": "杜逸文",
+    "lyricist": "杜逸文",
+    "arrangement": "劉志明",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願主祝福您",
+    "composer": "MeredithWilson",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奇妙救恩",
+    "composer": "",
+    "lyricist": "John Newton/ J P Rees",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奇妙救恩",
+    "composer": "",
+    "lyricist": "John Newton/ J P Rees",
+    "arrangement": "E O Excell",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "播種仁愛",
+    "composer": "",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母讚主頌",
+    "composer": "徐錦堯/陳美津",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母讚主頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母讚主頌",
+    "composer": "黃鳳儀",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母讚主頌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母讚主頌",
+    "composer": "杜逸文",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "熙雍歡樂歌詠",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌﹗請派遣我",
+    "composer": "江克滿",
+    "lyricist": "江克滿",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "追隨基督",
+    "composer": "鄧思恩",
+    "lyricist": "鄧思恩",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主的呼召",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "慷慨的回應",
+    "composer": "江克滿",
+    "lyricist": "莊宗澤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督的召喚",
+    "composer": "",
+    "lyricist": "莊宗澤",
+    "arrangement": "伍星洪",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督青年",
+    "composer": "吳天福",
+    "lyricist": "吳天福",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我是教友",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督宗徒",
+    "composer": "劉榮耀",
+    "lyricist": "鄭約宜",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "教友宗徒",
+    "composer": "莫千芷",
+    "lyricist": "鄭約宜",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "傳揚福音",
+    "composer": "佚名",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "宣揚福音",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "F S J",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "實踐福音",
+    "composer": "鄧思恩",
+    "lyricist": "鄧思恩",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "傳揚福音",
+    "composer": "黃月萍",
+    "lyricist": "黃月萍",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "當人遇到我們時",
+    "composer": "江克滿",
+    "lyricist": "香港教區禮儀會",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "奇妙的主愛",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "一生永皈依主",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖父光照",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "願望",
+    "composer": "孫達浩",
+    "lyricist": "胡健挺",
+    "arrangement": "蘇柏羲",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "真光照著我",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我愛主之教會",
+    "composer": "Aaron Williams",
+    "lyricist": "Timonthy Dwight",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主愛教會",
+    "composer": "Louis Bourgeois",
+    "lyricist": "Sr. M Eucharista",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "教會根基",
+    "composer": "Samuel S Wesley",
+    "lyricist": "Samuel J Stone",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "歡欣",
+    "composer": "Martin G Schneider",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救贖我的主",
+    "composer": "佚名",
+    "lyricist": "徐錦堯",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "與基督同行",
+    "composer": "佚名",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "人人都應當知道",
+    "composer": "Charles Converse",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌基督",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督耶穌",
+    "composer": "杜逸文",
+    "lyricist": "杜逸文",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌聖體我堅信祢",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌我信祢",
+    "composer": "F Buehler",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌我信祢",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌我信祢",
+    "composer": "鄧思恩",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌我信祢",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "可愛耶穌臨我心",
+    "composer": "L Cherubini",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌聖體我堅信祢",
+    "composer": "司馬榮",
+    "lyricist": "劉志明",
+    "arrangement": "劉志明",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌我信祢",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌聖體",
+    "composer": "區家勳",
+    "lyricist": "區家勳",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌聖體聖善尊貴",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我信耶穌",
+    "composer": "梁雅明",
+    "lyricist": "梁雅明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我來朝拜耶穌",
+    "composer": "梁雅明",
+    "lyricist": "梁雅明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "至聖至真",
+    "composer": "佚名",
+    "lyricist": "Pope Innocent VI",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "至真至聖",
+    "composer": "W A Mozart",
+    "lyricist": "Pope Onnocent VI",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "至聖至真",
+    "composer": "劉榮耀",
+    "lyricist": "Pope Innocent VI",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "皇皇聖體",
+    "composer": "劉榮耀",
+    "lyricist": "Tommaso d'Aquino",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "皇皇聖體",
+    "composer": "",
+    "lyricist": "Tommaso d'Aquino",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美天主",
+    "composer": "J H Schloeder",
+    "lyricist": "Laudes Divinae",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美天主",
+    "composer": "佚名",
+    "lyricist": "Laudes Divinae",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督的靈魂",
+    "composer": "Joseph Gelineau",
+    "lyricist": "John XXII",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督的靈魂",
+    "composer": "W J Maher",
+    "lyricist": "Pope John XXII",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌臨我心中",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們萬分不配",
+    "composer": "Burns",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主﹗我當不起",
+    "composer": "梁雅明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主臨我心",
+    "composer": "林樂培",
+    "lyricist": "林樂培",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天神聖潔之糧",
+    "composer": "劉榮耀",
+    "lyricist": "Tommaso d'Aquino",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "虔誠朝拜",
+    "composer": "",
+    "lyricist": "St. Thomas Aquinas",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天上神聖食糧",
+    "composer": "Franz Joseph Hydn",
+    "lyricist": "St. Thomas Aquinas",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "惟此聖體贖世犧牲",
+    "composer": "佚名",
+    "lyricist": "Tommaso d'Aquino",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "弟兄們齊奉聖言",
+    "composer": "James Thiem",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "共赴主殿",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "分享同一的聖體",
+    "composer": "劉玉亭",
+    "lyricist": "李鍾馨",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌基督是生命源",
+    "composer": "佚名",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "長留聖體中",
+    "composer": "佚名",
+    "lyricist": "佚名",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖體頌",
+    "composer": "劉榮耀",
+    "lyricist": "張田昌",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖體聖血",
+    "composer": "Br. Victorique",
+    "lyricist": "江克滿",
+    "arrangement": "陳永華",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "與主結合",
+    "composer": "劉志明",
+    "lyricist": "劉志明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我要領受主",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "信友前來恭領聖體",
+    "composer": "佚名",
+    "lyricist": "Patricius",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主恩奧妙",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主的居處在我心",
+    "composer": "M T Winter",
+    "lyricist": "Sr. M T Winter",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌當我一想念祢",
+    "composer": "John Bacchus Bykes",
+    "lyricist": "Bernard of Clarirvaux",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我主可愛耶穌",
+    "composer": "佚名",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主耶穌是我所望的喜悅",
+    "composer": "Johann P Schop",
+    "lyricist": "Martin Jahn",
+    "arrangement": "Johann Sebastian Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬世之尊",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "西雍讚揚救主",
+    "composer": "Federico Caudana",
+    "lyricist": "Lauda Sion Salvatorem",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督得勝",
+    "composer": "A Kunc",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我主耶穌天地君王",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督君王",
+    "composer": "Ludwig van Beethoven",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們同聚共樂歡然",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌基督天地君王",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "J Kreimaier",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌基督永世君王",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "這是天父世界",
+    "composer": "",
+    "lyricist": "Malthie Davenport Babcock",
+    "arrangement": "Frankin L Sheppard",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "謝",
+    "composer": "孫達浩",
+    "lyricist": "胡健挺",
+    "arrangement": "蘇柏羲",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主日",
+    "composer": "杜逸文",
+    "lyricist": "杜逸文",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "在基督的愛內",
+    "composer": "佚名",
+    "lyricist": "文耀龍",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督的平安",
+    "composer": "劉志明",
+    "lyricist": "孔慶玲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主愛在臨現",
+    "composer": "孫達浩",
+    "lyricist": "胡健挺",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "真福八端",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "真福八端",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主啊﹗我相信在禮儀中",
+    "composer": "劉玉亭",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "愛德歌",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "相愛",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "有一新誡命",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我給你們一條新誡命",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "愛德",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "愛之歌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "那被宰殺的羔羊",
+    "composer": "戴遐齡",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "銘記主恩",
+    "composer": "劉志明",
+    "lyricist": "劉志明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "司祭百姓",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "大地高天同讚上主",
+    "composer": "Richard Runciman Terry",
+    "lyricist": "John Henry Newman",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "大地高天同讚上主",
+    "composer": "劉榮耀",
+    "lyricist": "John Henry Newman",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "大地高大",
+    "composer": "劉榮耀",
+    "lyricist": "John Henry Newman",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救世的君王",
+    "composer": "Novena del Santo Natale-Invitatorio",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "高天降下廿露",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "至聖至仁天主",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖哉救主",
+    "composer": "Rottemburg",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "來啊﹗至聖默西亞",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "人類救主請速降臨",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "醒吧﹗醒吧",
+    "composer": "Philip Nicolai",
+    "lyricist": "Philip Nicolai",
+    "arrangement": "Johann Sebastian Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主任爾為傳信者",
+    "composer": "劉志明",
+    "lyricist": "曾慶霖",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶路撒冷應歡欣",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主﹗快來",
+    "composer": "杜逸文",
+    "lyricist": "夏其龍",
+    "arrangement": "劉志明",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主耶穌﹗來吧",
+    "composer": "劉志明",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主耶穌﹗來吧",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主基督﹗請來",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主﹗請快來臨",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "人類救主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "靜聽曠野有呼聲",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主的許諾",
+    "composer": "劉志明",
+    "lyricist": "孔慶玲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光明之主",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖言成了血肉",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "齊來欽崇",
+    "composer": "John Francis Wade",
+    "lyricist": "John Francis Wade",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "O Come All Ye Faithful",
+    "composer": "John Francis Wade",
+    "lyricist": "John Francis Wade",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "平安夜",
+    "composer": "Franz Xavier Gruber Stille Nacht",
+    "lyricist": "Joseph Mohr",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Silent Night",
+    "composer": "Franz Xavier Gruber Stille Nacht",
+    "lyricist": "Joseph Mohr",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "平安夜",
+    "composer": "劉榮耀",
+    "lyricist": "Joseph Mohr",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖誕佳音",
+    "composer": "佚名",
+    "lyricist": "佚名",
+    "arrangement": "John Stainer",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "The First Noel",
+    "composer": "",
+    "lyricist": "Anonymous",
+    "arrangement": "Johne Stainer",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "小白冷城",
+    "composer": "Lewis H Redner",
+    "lyricist": "Philips Brooks",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "O little Town of Bethlehem",
+    "composer": "Lewis H Redner",
+    "lyricist": "Philip Brooks",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普世歡騰",
+    "composer": "Lowell Mason",
+    "lyricist": "Isaac Watts",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Joy To The World",
+    "composer": "Lowell Mason",
+    "lyricist": "Isaac Watts",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "是何嬰孩",
+    "composer": "",
+    "lyricist": "William Chatterton Dix",
+    "arrangement": "John Stainer",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "What Child is this",
+    "composer": "",
+    "lyricist": "William Chatterton Dix",
+    "arrangement": "John Stainer",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "真神賜平安",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "John Stainer",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "God Rest You Merry",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "John Stainer",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖善良辰",
+    "composer": "Adolphe Charles Adam",
+    "lyricist": "蘇兆民",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "O Holy Night",
+    "composer": "Adolphe Charles Adam",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "子夜歌聲",
+    "composer": "Richard S Willis",
+    "lyricist": "Edmund H Sears",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "It Came Upon The Midnight Clear",
+    "composer": "Richard S Willis",
+    "lyricist": "Edmund H Sears",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "新生王",
+    "composer": "Felix Mendelssohn",
+    "lyricist": "C Wesley",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Hark The Herald Angels Sing",
+    "composer": "Felix Mendelssohn",
+    "lyricist": "Charles Wesley",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "無數天使空際臨",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "Angels We have Heard On High",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天使作樂",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "無數天使空際臨",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "時維夜半",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬籟靜",
+    "composer": "張帆行",
+    "lyricist": "嚴蘊梁",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "朝拜聖嬰",
+    "composer": "",
+    "lyricist": "初田",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "馬槽前",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌聖嬰",
+    "composer": "佚名",
+    "lyricist": 1970,
+    "arrangement": 1970,
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖誕頌讚",
+    "composer": "孫達浩",
+    "lyricist": "孫達浩",
+    "arrangement": "蘇柏羲",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖誕頌",
+    "composer": "莫尚志",
+    "lyricist": "陳鈞潤",
+    "arrangement": "蘇柏羲",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖誕頌",
+    "composer": "劉榮耀",
+    "lyricist": "劉永富",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救主誕生",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖嬰誕生",
+    "composer": "G Adolfo Bossi",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖誕之歌",
+    "composer": "吳天福",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普天同慶",
+    "composer": "佚名",
+    "lyricist": "佚名",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "同聲歌唱齊歡呼",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們愉快高歌",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "向主高唱新歌",
+    "composer": "蘇明村",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌誕生",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "三王來朝",
+    "composer": "John B Lully",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們三王",
+    "composer": "John H Hopkins",
+    "lyricist": "John Hopkins",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "We Three Kings",
+    "composer": "John H Hopkins",
+    "lyricist": "John H Hopkins",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "三聖頌",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖家頌",
+    "composer": "Basuiau",
+    "lyricist": "張雅各",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖家天倫樂",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我主﹗求祢垂憐",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們在聚會中",
+    "composer": "Ahasuerus Fritsch",
+    "lyricist": "",
+    "arrangement": "J S Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "仁愛救世天主",
+    "composer": "Giovanni Battista Pergolesi",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "原祖犯罪得罪至尊",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求主莫記究我過犯",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "賜我一個心",
+    "composer": "戴思",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌捐軀以贖罪",
+    "composer": "佚名",
+    "lyricist": "莊宗澤",
+    "arrangement": "江克滿",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "虔求耶穌矜憐",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "鳴呼﹗我心憂傷",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌救世無窮愛",
+    "composer": "Thomas Hastings",
+    "lyricist": "Augustus Montague Toplady",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "誰與我一同悲傷",
+    "composer": "John Bacchus Dykes",
+    "lyricist": "Frederick William Faber",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我可愛子民",
+    "composer": "John Cruger",
+    "lyricist": "",
+    "arrangement": "J S Bach",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "因祢聖血身上流",
+    "composer": "J Richardson",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母侍立架旁",
+    "composer": "",
+    "lyricist": "Jacopone da Todi",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖母侍立架旁",
+    "composer": "劉榮耀",
+    "lyricist": "Jacopone da Todi",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌基督品位尊",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶路撒冷讚美上主",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "Chanoine Darros",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "希伯來的兒童",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "救主頌",
+    "composer": "劉榮耀",
+    "lyricist": "張田昌",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "哪裡有仁愛",
+    "composer": "李振邦",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "何處有仁",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "何處有仁",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "朝拜十字架",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督譴責",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "功成十架",
+    "composer": "陳永華",
+    "lyricist": "康熙",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "君王皇旗高高懸",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "皇旗飛舞",
+    "composer": "V Fortunatus",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "以愛還愛",
+    "composer": "莊宗澤",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "以愛還愛",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請看這十字聖本",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督的光",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "彌撒禮成",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "黑夜之中放光明",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮糧",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "喜樂頌",
+    "composer": "劉玉亭",
+    "lyricist": "蔡濯堂",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "逾越頌",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "沉眠眾靈",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "沉眠諸靈",
+    "composer": "Joseph Gelineau",
+    "lyricist": "",
+    "arrangement": "劉榮耀",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "復活的光",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "列國萬民讚美天主",
+    "composer": "江克滿",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖善的新生活",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "復活讚",
+    "composer": "",
+    "lyricist": "Wipo",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請眾高歌齊樂鳴",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌復生",
+    "composer": "",
+    "lyricist": "Tisserand",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌凱旋復活",
+    "composer": "Camattari",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主﹗因祢聖復活",
+    "composer": "黃鳳儀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌復活已功成",
+    "composer": "Richard Runciman Terry",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請眾高歌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌凱旋復活",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我主復活憑聖父命",
+    "composer": "Cologne Gesangbuch",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主已復活眾歡欣",
+    "composer": "Lyra Davidica",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "復活節堪歡詠",
+    "composer": "Dutch melody",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美我的天主",
+    "composer": "陸達初",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普世喜洋洋",
+    "composer": "George Fredrick Handel",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌君王戰勝死亡",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "在主內同樂",
+    "composer": "Lucien Deiss",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "普世萬民歡樂吧",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "頌讚基督的復活",
+    "composer": "Donald Fishel",
+    "lyricist": "Donald Fishel",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "喜樂歡欣",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "基督戰勝了死亡",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主已復活了",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我們應該喜樂",
+    "composer": "江文也",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌升天",
+    "composer": "William Croft",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "伏求聖神",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "FSJ",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "伏求聖神",
+    "composer": "Louis Lambillotte",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "求造物主聖神降臨",
+    "composer": "",
+    "lyricist": "Rabanus Maurus",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "懇求造聖神降臨",
+    "composer": "佚名",
+    "lyricist": "Rabanus Maurus",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "懇求主聖神降臨",
+    "composer": "",
+    "lyricist": "Pope Innocent III",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神降臨",
+    "composer": "Lamy",
+    "lyricist": "INNOCENT III",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神﹗請祢降臨",
+    "composer": "蔡詩亞",
+    "lyricist": "Innocent III",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神降臨",
+    "composer": "劉榮耀",
+    "lyricist": "Pope Innocent III",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神﹗求祢降臨",
+    "composer": "劉志明",
+    "lyricist": "劉志明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主聖神頌",
+    "composer": "吳天福",
+    "lyricist": "吳天福",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神﹗請降臨",
+    "composer": "梁雅明",
+    "lyricist": "梁雅明",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神賜恩",
+    "composer": "莊宗澤",
+    "lyricist": "莊宗澤",
+    "arrangement": "江克滿",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神﹗請來",
+    "composer": "鄧思恩",
+    "lyricist": "鄧思恩",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主聖神",
+    "composer": "Sister Miriam Therese Winter",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神降臨",
+    "composer": "伍星洪",
+    "lyricist": "伍星洪",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主聖神",
+    "composer": "陳永華",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神﹗請祢降臨",
+    "composer": "徐錦堯",
+    "lyricist": "徐錦堯",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神頌",
+    "composer": "孫達浩",
+    "lyricist": "孫達浩",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神降臨",
+    "composer": "江克滿",
+    "lyricist": "江克滿",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神降臨頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "風隨意向哪裡輕吹",
+    "composer": "廖天佑",
+    "lyricist": "",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖神頌",
+    "composer": "劉志明",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "祝福",
+    "composer": "蔡詩亞",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主賜恩",
+    "composer": "蘇柏羲",
+    "lyricist": "蘇柏羲",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚美天主聖三",
+    "composer": "張懷智",
+    "lyricist": "張洪波",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖三讚",
+    "composer": "江克滿",
+    "lyricist": "江克滿",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主父慈恩應讚頌",
+    "composer": "佚名",
+    "lyricist": "佚名",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主﹗我們讚美祢",
+    "composer": "",
+    "lyricist": "St. Nicetas",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "讚頌天主",
+    "composer": "Johann Sebastian Bach",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "同聲頌主",
+    "composer": "佚名",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮經",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮經",
+    "composer": "林樂培",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "光榮經",
+    "composer": "陸達初",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖三頌",
+    "composer": "Charles Gounod",
+    "lyricist": "陳鈞潤",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
   },
   {
     "title": "諸聖禱文",
-    "composer": "蔡詩亞",
-    "tags": "F調, 教友",
-    "url": "https://musicasacra.org.hk/publish/Season/LitaniaeSanctorum/Choi/LitaniaeSanctorumFpp.pdf",
-    "remarks": ""
+    "composer": "李振邦",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
   },
   {
     "title": "諸聖禱文",
-    "composer": "蔡詩亞",
-    "tags": "G調, 伴奏",
-    "url": "https://musicasacra.org.hk/publish/Season/LitaniaeSanctorum/Choi/LitaniaeSanctorumG.pdf",
-    "remarks": ""
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
   },
   {
-    "title": "諸聖禱文",
-    "composer": "蔡詩亞",
-    "tags": "G調, 教友",
-    "url": "https://musicasacra.org.hk/publish/Season/LitaniaeSanctorum/Choi/LitaniaeSanctorumGpp.pdf",
-    "remarks": ""
+    "title": "中華諸聖頌",
+    "composer": "蘇明村",
+    "lyricist": "胡健挺",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
   },
   {
-    "title": "諸聖禱文",
+    "title": "中華諸聖殉道者",
+    "composer": "Johann Sebastian Bach",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "中華諸聖致命者",
+    "composer": "恩澤民",
+    "lyricist": "佚名",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主啊﹗求祢賜與安息",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "吾主征服死亡",
+    "composer": "劉玉亭",
+    "lyricist": "蔡濯堂",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶路撒冷天上家鄉",
+    "composer": "Mother Seton",
+    "lyricist": "St Augustine of Hippo",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主賜煉靈永息",
+    "composer": "Lowell Mason",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "我靈期待上主",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "死亡與復活",
+    "composer": "劉榮耀",
+    "lyricist": "蔡濯堂",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "請為亡者祈禱",
+    "composer": "耿寶華",
+    "lyricist": "胡健挺",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "凡諸信者靈魂",
     "composer": "蔡詩亞",
-    "tags": "mp3",
-    "url": "https://musicasacra.org.hk/publish/Season/LitaniaeSanctorum/Choi/%E8%AB%B8%E8%81%96%E7%A6%B1%E6%96%87%20Litaniae%20Sacntorum%E2%80%94%E8%94%A1%E8%A9%A9%E4%BA%9E.mp3",
-    "remarks": ""
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "百年好合",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "完美的愛",
+    "composer": "Joseph Barnby",
+    "lyricist": "Dorothy F B Gurney",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "根扎石磐",
+    "composer": "蘇明村",
+    "lyricist": "胡健挺",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "看﹗這是大司祭",
+    "composer": "劉榮耀",
+    "lyricist": "Ecce Sacerdos magnus",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "司鐸的使命",
+    "composer": "Belarmino Sanchez A",
+    "lyricist": 2003,
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "聖年頌",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "天主十誡",
+    "composer": "蘇柏羲",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主臨現",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "主﹗我已來到",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "上主帶來新生命",
+    "composer": "劉榮耀",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "萬象更新喜氣迎",
+    "composer": "劉榮耀",
+    "lyricist": "劉榮耀",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "越之悅",
+    "composer": "劉玉亭",
+    "lyricist": "陳鈞潤",
+    "arrangement": "蔡詩亞",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
+  },
+  {
+    "title": "耶穌聖心頌",
+    "composer": "",
+    "lyricist": "",
+    "arrangement": "",
+    "url1": "",
+    "url2": ""
   }
 ]
